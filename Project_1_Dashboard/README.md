@@ -74,7 +74,7 @@ IF(
 
 🍽️ Background Table
 
-![Salary_Dashboard_Screenshot1.png](/Salary_Dashboard_Screenshot1.png)
+![Salary_Dashboard_Screenshot1.png](Salary_Dashboard_Screenshot1.png)
 
 📉 Dashboard Implementation
 
@@ -91,11 +91,11 @@ IF(
 
 🍽️ Background Table
 
-![Salary_Dashboard_Type.png](/Salary_Dashboard_Screenshot2.png)
+![Salary_Dashboard_Type.png](Salary_Dashboard_Screenshot2.png)
 
 📉 Dashboard Implementation:
 
-<img src="/Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
@@ -106,7 +106,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+<img src="Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
